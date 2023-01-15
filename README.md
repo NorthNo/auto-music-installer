@@ -7,4 +7,4 @@
 
 <h2>[*]USAGE[*]</h2>
 First, the TARGET FOLDER path copy and paste it in 'path.txt'.<br>
-You need the copy url and paste in the 'urls.txt' and start the 'download.bat', it's start to download.
+You need the copy url and paste in the 'urls.txt' and start the 'download.bat', it will be started the download.
